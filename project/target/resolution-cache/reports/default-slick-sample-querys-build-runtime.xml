@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="default"
+		module="slick-sample-querys-build"
+		revision="0.1-SNAPSHOT"
+		extra-scalaVersion="2.10"
+		extra-sbtVersion="0.13"
+		conf="runtime"
+		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
+		date="20161205222147"/>
+	<dependencies>
+		<module organisation="org.flywaydb" name="flyway-sbt">
+			<revision name="3.2.1" status="release" pubdate="20160809184119" resolver="sbt-chain" artresolver="sbt-chain" homepage="" extra-scalaVersion="2.10" extra-sbtVersion="0.13" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="0">
+				<metadata-artifact status="no" details="" size="2981" time="0" location="/home/destructo/.ivy2/cache/scala_2.10/sbt_0.13/org.flywaydb/flyway-sbt/ivy-3.2.1.xml" searched="false" origin-is-local="false" origin-location="https://flywaydb.org/repo/org/flywaydb/flyway-sbt_2.10_0.13/3.2.1/flyway-sbt-3.2.1.pom"/>
+				<caller organisation="default" name="slick-sample-querys-build" conf="compile, runtime" rev="3.2.1" rev-constraint-default="3.2.1" rev-constraint-dynamic="3.2.1" callerrev="0.1-SNAPSHOT" extra-scalaVersion="2.10" extra-sbtVersion="0.13"/>
+				<artifacts>
+					<artifact name="flyway-sbt" type="jar" ext="jar" status="no" details="" size="107998" time="0" location="/home/destructo/.ivy2/cache/scala_2.10/sbt_0.13/org.flywaydb/flyway-sbt/jars/flyway-sbt-3.2.1.jar">
+						<origin-location is-local="false" location="https://flywaydb.org/repo/org/flywaydb/flyway-sbt_2.10_0.13/3.2.1/flyway-sbt-3.2.1.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.flywaydb" name="flyway-core">
+			<revision name="3.2.1" status="release" pubdate="20150320175300" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="1">
+				<license name="Apache License, Version 2.0" url="https://github.com/flyway/flyway/blob/master/LICENSE.txt"/>
+				<metadata-artifact status="no" details="" size="16519" time="0" location="/home/destructo/.ivy2/cache/org.flywaydb/flyway-core/ivy-3.2.1.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/org/flywaydb/flyway-core/3.2.1/flyway-core-3.2.1.pom"/>
+				<caller organisation="org.flywaydb" name="flyway-sbt" conf="default, compile, runtime, master" rev="3.2.1" rev-constraint-default="3.2.1" rev-constraint-dynamic="3.2.1" callerrev="3.2.1"/>
+				<artifacts>
+					<artifact name="flyway-core" type="jar" ext="jar" status="no" details="" size="292011" time="0" location="/home/destructo/.ivy2/cache/org.flywaydb/flyway-core/jars/flyway-core-3.2.1.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/flywaydb/flyway-core/3.2.1/flyway-core-3.2.1.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+	</dependencies>
+</ivy-report>

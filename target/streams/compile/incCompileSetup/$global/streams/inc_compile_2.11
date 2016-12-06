@@ -1,0 +1,736 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+31 items
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> /home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/Application$$anonfun$1.class
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> /home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/Application$.class
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> /home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/Application$delayedInit$body.class
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> /home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/Application.class
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> /home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/Converter$.class
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> /home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/Converter$toModelConverter$$anonfun$toModel$1.class
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> /home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/Converter$toModelConverter.class
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> /home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/Converter.class
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> /home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GameRepository$$anonfun$execQuery$1.class
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> /home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GameRepository$$anonfun$getGame$1.class
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> /home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GameRepository.class
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> /home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GameTypesDAO$$anonfun$1.class
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> /home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GameTypesDAO$.class
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> /home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GameTypesDAO$GameTypeRow$.class
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> /home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GameTypesDAO$GameTypeRow.class
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> /home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GameTypesDAO$Scheme$$anonfun$$times$1.class
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> /home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GameTypesDAO$Scheme.class
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> /home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GameTypesDAO.class
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> /home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GamesDAO$$anonfun$1.class
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> /home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GamesDAO$.class
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> /home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GamesDAO$GameRow$.class
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> /home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GamesDAO$GameRow.class
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> /home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GamesDAO$OptionsExt$$anonfun$getByName$1.class
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> /home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GamesDAO$OptionsExt$$anonfun$withType$1.class
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> /home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GamesDAO$OptionsExt.class
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> /home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GamesDAO$Scheme$$anonfun$$times$1.class
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> /home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GamesDAO$Scheme$$anonfun$2.class
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> /home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GamesDAO$Scheme.class
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> /home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GamesDAO.class
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> /home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/model/Game$.class
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> /home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/model/Game.class
+binary dependencies:
+19 items
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> /home/destructo/.ivy2/cache/com.typesafe.slick/slick_2.11/bundles/slick_2.11-3.1.1.jar
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> /home/destructo/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> /home/destructo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> /home/destructo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> /home/destructo/.ivy2/cache/com.typesafe.scala-logging/scala-logging_2.11/jars/scala-logging_2.11-3.1.0.jar
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> /home/destructo/.ivy2/cache/com.typesafe.slick/slick_2.11/bundles/slick_2.11-3.1.1.jar
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> /home/destructo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> /home/destructo/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.10.jar
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> /home/destructo/.ivy2/cache/com.typesafe.slick/slick_2.11/bundles/slick_2.11-3.1.1.jar
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> /home/destructo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> /home/destructo/.ivy2/cache/com.typesafe.slick/slick_2.11/bundles/slick_2.11-3.1.1.jar
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> /home/destructo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> /home/destructo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+10 items
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> /home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> /home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> /home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> /home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> /home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> /home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> /home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> /home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> /home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> /home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+31 items
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> slick.sample.querys.Application
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> slick.sample.querys.Application$
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> slick.sample.querys.Application$$anonfun$1
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> slick.sample.querys.Application$delayedInit$body
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> slick.sample.querys.infrastucture.persistence.Converter
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> slick.sample.querys.infrastucture.persistence.Converter$
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> slick.sample.querys.infrastucture.persistence.Converter$toModelConverter
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> slick.sample.querys.infrastucture.persistence.Converter$toModelConverter$$anonfun$toModel$1
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> slick.sample.querys.infrastucture.persistence.GameRepository
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> slick.sample.querys.infrastucture.persistence.GameRepository$$anonfun$execQuery$1
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> slick.sample.querys.infrastucture.persistence.GameRepository$$anonfun$getGame$1
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> slick.sample.querys.infrastucture.persistence.GameTypesDAO
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> slick.sample.querys.infrastucture.persistence.GameTypesDAO$
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> slick.sample.querys.infrastucture.persistence.GameTypesDAO$$anonfun$1
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> slick.sample.querys.infrastucture.persistence.GameTypesDAO$GameTypeRow
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> slick.sample.querys.infrastucture.persistence.GameTypesDAO$GameTypeRow$
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> slick.sample.querys.infrastucture.persistence.GameTypesDAO$Scheme
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> slick.sample.querys.infrastucture.persistence.GameTypesDAO$Scheme$$anonfun$$times$1
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> slick.sample.querys.infrastucture.persistence.GamesDAO
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> slick.sample.querys.infrastucture.persistence.GamesDAO$
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> slick.sample.querys.infrastucture.persistence.GamesDAO$$anonfun$1
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> slick.sample.querys.infrastucture.persistence.GamesDAO$GameRow
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> slick.sample.querys.infrastucture.persistence.GamesDAO$GameRow$
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> slick.sample.querys.infrastucture.persistence.GamesDAO$OptionsExt
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> slick.sample.querys.infrastucture.persistence.GamesDAO$OptionsExt$$anonfun$getByName$1
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> slick.sample.querys.infrastucture.persistence.GamesDAO$OptionsExt$$anonfun$withType$1
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> slick.sample.querys.infrastucture.persistence.GamesDAO$Scheme
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> slick.sample.querys.infrastucture.persistence.GamesDAO$Scheme$$anonfun$$times$1
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> slick.sample.querys.infrastucture.persistence.GamesDAO$Scheme$$anonfun$2
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> slick.sample.querys.model.Game
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> slick.sample.querys.model.Game$
+used names:
+507 items
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> <init>
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> API
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> Any
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> App
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> Application
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> Backend
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> ClassLoader
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> Config
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> Database
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> DatabaseFactory
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> Driver
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> ExecutionContext
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> ExecutionContextExecutor
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> Function1
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> Future
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> Game
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> GameRepository
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> Implicits
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> Long
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> Nothing
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> Object
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> PostgresDriver
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> Predef
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> S
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> Seq
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> String
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> Thread
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> Unit
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> api
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> concurrent
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> dataBase
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> driver
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> forConfig
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> getGame
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> global
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> infrastucture
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> java
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> lang
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> map
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> package
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> persistence
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> println
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> querys
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> repository
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> sample
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> scala
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> sleep
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> slick
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> <init>
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> A
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> Any
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> AnyRef
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> B
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> Boolean
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> CanBuildFrom
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> Coll
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> Converter
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> Exception
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> Function1
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> Game
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> GameRow
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> GameTypeRow
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> GameTypesDAO
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> GamesDAO
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> Nothing
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> Object
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> Option
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> Predef
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> Seq
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> Some
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> String
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> T0
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> That
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> Tuple2
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> _1
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> _2
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> asInstanceOf
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> canBuildFrom
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> collection
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> game
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> gameMatch
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> gameType
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> infrastucture
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> isInstanceOf
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> map
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> model
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> name
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> ne
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> package
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> payload
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> persistence
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> querys
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> sample
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> scala
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> slick
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> source
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> toModelConverter
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> x
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> <init>
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> A1
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> API
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> AbstractPartialFunction
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> Any
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> AnyRef
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> B1
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> Boolean
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> C
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> Converter
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> DBIOAction
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> Database
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> Effect
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> ExecutionContext
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> ExecutionContextExecutor
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> Function1
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> Future
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> Game
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> GameRepository
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> GameRow
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> GameTypeRow
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> GameTypesDAO
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> GamesDAO
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> Implicits
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> Logger
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> NoStream
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> Nothing
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> Object
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> Option
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> OptionsExt
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> PartialFunction
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> PostgresDriver
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> Predef
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> Query
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> R
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> Read
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> Rep
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> S
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> Scheme
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> Seq
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> StreamingDriverAction
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> StreamingQueryActionExtensionMethods
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> StrictLogging
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> String
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> T0
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> TableQuery
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> Throwable
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> Tuple2
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> U
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> Unit
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> _$1
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> action
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> api
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> apply
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> asInstanceOf
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> com
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> concurrent
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> db
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> dbio
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> driver
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> error
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> execQuery
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> getByName
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> global
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> infrastucture
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> isErrorEnabled
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> logger
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> map
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> model
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> name
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> ne
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> onFailure
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> package
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> persistence
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> query
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> querys
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> result
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> run
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> sample
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> scala
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> scalalogging
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> slick
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> streamableQueryActionExtensionMethods
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> t
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> toModel
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> toModelConverter
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> typesafe
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> unchecked
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> underlying
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> withType
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> &&
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> <>
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> <init>
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> <repeated>
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> ==
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> A
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> API
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> AbstractFunction2
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> AbstractTable
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> Any
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> AnyRef
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> BaseTypedType
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> Boolean
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> C
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> Class
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> ClassTag
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> ColumnOption
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> E
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> FlatShapeLevel
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> Function1
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> GameTypeRow
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> GameTypesDAO
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> IndexOutOfBoundsException
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> Int
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> IntJdbcType
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> Iterator
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> JdbcTypes
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> Level
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> M1
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> M2
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> MappedProjection
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> None
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> Nothing
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> Object
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> Option
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> P
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> P1
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> P2
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> PostgresDriver
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> Predef
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> Product
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> ProvenShape
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> R
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> Rep
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> ScalaRunTime
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> Scheme
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> Serializable
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> Shape
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> ShapeLevel
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> Some
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> Statics
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> String
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> StringJdbcType
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> T
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> T0
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> T1
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> T2
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> Table
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> TableQuery
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> Tag
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> ToShapedValue
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> Tuple2
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> TypedType
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> U
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> U1
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> U2
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> _$2
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> _$3
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> _$30
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> _$53
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> _$54
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> _$60
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> _$61
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> _$7
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> _toString
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> anyHash
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> anyToToShapedValue
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> api
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> apply
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> asInstanceOf
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> column
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> driver
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> eq
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> finalizeHash
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> id
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> infrastucture
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> intColumnType
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> isInstanceOf
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> lifted
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> mappedProjectionShape
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> materializeClassTag
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> mix
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> name
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> package
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> persistence
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> proveShapeOf
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> query
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> querys
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> repColumnShape
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> runtime
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> sample
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> scala
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> slick
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> stringColumnType
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> tag
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> toString
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> tuple2Shape
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> tupled
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> typedProductIterator
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> ||
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> $conforms
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> &&
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> <:<
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> <>
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> <init>
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> <repeated>
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> ==
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> ===
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> A
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> API
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> AbstractFunction3
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> AbstractTable
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> Any
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> AnyRef
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> B1
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> B2
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> BR
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> BaseColumnExtensionMethods
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> BaseJoinQuery
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> BaseTypedType
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> Boolean
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> BooleanColumnCanBeQueryCondition
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> C
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> CanBeQueryCondition
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> Class
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> ClassTag
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> ColumnOption
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> D
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> E
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> E2
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> FlatShapeLevel
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> ForeignKeyAction
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> ForeignKeyQuery
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> Function1
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> Function2
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> GameRow
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> GameTypeRow
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> GameTypesDAO
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> GamesDAO
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> IndexOutOfBoundsException
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> Int
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> IntJdbcType
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> Iterator
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> JdbcTypes
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> Level
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> LiteralColumn
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> M
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> M1
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> M2
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> M3
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> MappedProjection
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> None
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> Nothing
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> O2
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> Object
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> Option
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> OptionLift
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> OptionMapper2
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> OptionsExt
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> P
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> P1
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> P2
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> P3
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> PU
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> PostgresDriver
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> Predef
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> Product
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> ProvenShape
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> Query
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> R
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> Rep
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> ScalaRunTime
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> Scheme
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> Serializable
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> Shape
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> ShapeLevel
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> Some
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> Statics
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> String
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> StringJdbcType
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> T
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> T0
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> T1
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> T2
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> T3
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> TT
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> Table
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> TableQuery
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> Tag
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> ToShapedValue
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> Tuple2
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> Tuple3
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> TypedType
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> U
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> U1
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> U2
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> U3
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> _$1
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> _$2
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> _$26
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> _$3
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> _$30
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> _$4
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> _$5
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> _$53
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> _$54
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> _$6
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> _$60
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> _$61
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> _$7
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> _toString
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> anyHash
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> anyOptionLift
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> anyOptionShape
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> anyToToShapedValue
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> api
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> apply
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> asInstanceOf
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> column
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> columnExtensionMethods
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> driver
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> eq
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> filter
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> finalizeHash
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> foreignKey
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> getOptionMapper2TT
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> higherKinds
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> id
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> infrastucture
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> intColumnType
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> isInstanceOf
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> joinLeft
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> language
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> lifted
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> mappedProjectionShape
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> materializeClassTag
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> mix
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> name
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> on
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> package
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> persistence
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> proveShapeOf
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> q
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> query
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> querys
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> repColumnShape
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> runtime
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> sample
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> scala
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> slick
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> stringColumnType
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> tableShape
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> tag
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> toString
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> tuple3Shape
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> tupled
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> typeId
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> typedProductIterator
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> valueToConstColumn
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> x$10
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> x$5
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> x$6
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> x$7
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> x$8
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> x$9
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> ||
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> &&
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> <init>
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> ==
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> A
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> AbstractFunction2
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> Any
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> AnyRef
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> Boolean
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> Game
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> IndexOutOfBoundsException
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> Int
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> Iterator
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> None
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> Nothing
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> Object
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> Predef
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> Product
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> ScalaRunTime
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> Serializable
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> Some
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> String
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> T
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> T0
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> T1
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> T2
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> Tuple2
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> _hashCode
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> _toString
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> asInstanceOf
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> eq
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> gameType
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> isInstanceOf
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> model
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> name
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> package
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> querys
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> runtime
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> sample
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> scala
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> slick
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> toString
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> typedProductIterator
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> ||
+product stamps:
+31 items
+/home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/Application$$anonfun$1.class -> lastModified(1480974214000)
+/home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/Application$.class -> lastModified(1480974214000)
+/home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/Application$delayedInit$body.class -> lastModified(1480974214000)
+/home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/Application.class -> lastModified(1480974214000)
+/home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/Converter$.class -> lastModified(1480974026000)
+/home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/Converter$toModelConverter$$anonfun$toModel$1.class -> lastModified(1480974027000)
+/home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/Converter$toModelConverter.class -> lastModified(1480974026000)
+/home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/Converter.class -> lastModified(1480974026000)
+/home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GameRepository$$anonfun$execQuery$1.class -> lastModified(1480974027000)
+/home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GameRepository$$anonfun$getGame$1.class -> lastModified(1480974027000)
+/home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GameRepository.class -> lastModified(1480974027000)
+/home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GameTypesDAO$$anonfun$1.class -> lastModified(1480974027000)
+/home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GameTypesDAO$.class -> lastModified(1480974027000)
+/home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GameTypesDAO$GameTypeRow$.class -> lastModified(1480974027000)
+/home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GameTypesDAO$GameTypeRow.class -> lastModified(1480974027000)
+/home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GameTypesDAO$Scheme$$anonfun$$times$1.class -> lastModified(1480974027000)
+/home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GameTypesDAO$Scheme.class -> lastModified(1480974027000)
+/home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GameTypesDAO.class -> lastModified(1480974027000)
+/home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GamesDAO$$anonfun$1.class -> lastModified(1480974027000)
+/home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GamesDAO$.class -> lastModified(1480974027000)
+/home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GamesDAO$GameRow$.class -> lastModified(1480974027000)
+/home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GamesDAO$GameRow.class -> lastModified(1480974027000)
+/home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GamesDAO$OptionsExt$$anonfun$getByName$1.class -> lastModified(1480974027000)
+/home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GamesDAO$OptionsExt$$anonfun$withType$1.class -> lastModified(1480974027000)
+/home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GamesDAO$OptionsExt.class -> lastModified(1480974027000)
+/home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GamesDAO$Scheme$$anonfun$$times$1.class -> lastModified(1480974027000)
+/home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GamesDAO$Scheme$$anonfun$2.class -> lastModified(1480974027000)
+/home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GamesDAO$Scheme.class -> lastModified(1480974027000)
+/home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/infrastucture/persistence/GamesDAO.class -> lastModified(1480974027000)
+/home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/model/Game$.class -> lastModified(1480974027000)
+/home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes/slick/sample/querys/model/Game.class -> lastModified(1480974027000)
+source stamps:
+6 items
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> hash(7bcfcdc1885500c0dcadf2c82018f317150663bc)
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> hash(c43857fefe54f5333c7648795fdba6a1387a9e3f)
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> hash(ddcaf483d104a2e03a44d19a1daf9f1ba68dc939)
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> hash(4554bdc23364619e2e4f87344a687c1c8918cb7b)
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> hash(17d883982ebb9b297bdde6505758c9b572143f21)
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> hash(99d5fbc3c77ccb0b817d26e852f4b165fd9b6489)
+binary stamps:
+6 items
+/home/destructo/.ivy2/cache/com.typesafe.scala-logging/scala-logging_2.11/jars/scala-logging_2.11-3.1.0.jar -> lastModified(1407940680000)
+/home/destructo/.ivy2/cache/com.typesafe.slick/slick_2.11/bundles/slick_2.11-3.1.1.jar -> lastModified(1450217224000)
+/home/destructo/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar -> lastModified(1431099960000)
+/home/destructo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1438617791000)
+/home/destructo/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.10.jar -> lastModified(1420575060000)
+/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar -> lastModified(1469606064000)
+class names:
+6 items
+/home/destructo/.ivy2/cache/com.typesafe.scala-logging/scala-logging_2.11/jars/scala-logging_2.11-3.1.0.jar -> com.typesafe.scalalogging.StrictLogging
+/home/destructo/.ivy2/cache/com.typesafe.slick/slick_2.11/bundles/slick_2.11-3.1.1.jar -> slick.jdbc.JdbcBackend
+/home/destructo/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar -> com.typesafe.config.Config
+/home/destructo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.App
+/home/destructo/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.10.jar -> org.slf4j.Logger
+/usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+6 items
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwsXiT3QAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAbc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwuxcP3XQABm5vdGlmeXNxAH4ADKimJG90AAR3YWl0c3EAfgAMnfzClHQACnJlcG9zaXRvcnlzcQB+AAxx1Fi6dAANJGFzSW5zdGFuY2VPZnNxAH4ADAbda2h0AAZlcXVhbHNzcQB+AAyyYg6edAAMYXNJbnN0YW5jZU9mc3EAfgAMMq426HQADmV4ZWN1dGlvblN0YXJ0c3EAfgAMSJnjv3QADHN5bmNocm9uaXplZHNxAH4ADJjeVhB0AA0kaXNJbnN0YW5jZU9mc3EAfgAM23UaWXQABG1haW5zcQB+AAy0poIcdAAJbm90aWZ5QWxsc3EAfgAMJwP1UHQADGlzSW5zdGFuY2VPZnNxAH4ADHX0chN0AAI9PXNxAH4ADFHld290AAVjbG9uZXNxAH4ADDWgqdN0AAtBcHBsaWNhdGlvbnNxAH4ADLv2nY90AAYkaW5pdCRzcQB+AAxCPgZpdAAIdG9TdHJpbmdzcQB+AAyUr9NwdAAEYXJnc3NxAH4ADOzm5q50AAIhPXNxAH4ADMXBKU50AAhnZXRDbGFzc3NxAH4ADLS1vgp0AAhkYXRhQmFzZXNxAH4ADHfUNGd0AAJuZXNxAH4ADKl4Kcx0AAJlcXNxAH4ADOMwujZ0AAtkZWxheWVkSW5pdHNxAH4ADHHDK5F0AAIjI3NxAH4ADKFWtR10AAhmaW5hbGl6ZXNxAH4ADLxMD590AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AE14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AB9zbGljay5zYW1wbGUucXVlcnlzLkFwcGxpY2F0aW9udXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBnc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AE1MAAlpbmhlcml0ZWRxAH4ATUwAB3BhcmVudHNxAH4ATXhxAH4AbHNxAH4AZ3VxAH4ASAAAAABzcQB+AGd1cQB+AEgAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AE5xAH4AV3VxAH4AWAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AHZ4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Aa3QAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBrc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCQc3EAfgBaAHEAfgAhdXEAfgBdAAAAAHNxAH4Ag3QABFVuaXRxAH4AiXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AGB0AAVQbGFpbnEAfgAxc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCEWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBrc3EAfgCDdAAFQXJyYXlxAH4AiXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCDdAAGU3RyaW5nc3EAfgCHc3EAfgCKdXEAfgCNAAAAA3NxAH4Aj3QABGphdmFzcQB+AI90AARsYW5ncQB+AJRzcQB+AGd1cQB+AKsAAAAEc3EAfgCDdAADQXBwcQB+AIlzcQB+AIN0AAtEZWxheWVkSW5pdHEAfgCJc3EAfgCDdAAGT2JqZWN0cQB+AK9zcQB+AIN0AANBbnlxAH4AiXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABXNsaWNrc3EAfgDCdAAMc2xpY2suc2FtcGxlc3EAfgDCdAATc2xpY2suc2FtcGxlLnF1ZXJ5c3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNDxEqh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABML2hvbWUvZGVzdHJ1Y3RvL3Byb2plY3RzL3NjYWxhL3NsaWNrLXNhbXBsZS1xdWVyeXMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFHvPzcGIVQDA3K3yyCAY8xcVBmO8
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw5kuIJAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAFzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHDOpTKgdAAQdG9Nb2RlbENvbnZlcnRlcnVxAH4ACQAAABdzcQB+AAuK6nAGdAAJZ2FtZU1hdGNoc3EAfgALaHDftXQABm5vdGlmeXNxAH4AC563ZjV0AAR3YWl0c3EAfgALjDUcHHQACUNvbnZlcnRlcnNxAH4ACy54mgN0AA0kYXNJbnN0YW5jZU9mc3EAfgALUXsIDnQABmVxdWFsc3NxAH4AC3YQkTZ0AAd0b01vZGVsc3EAfgALxW+C0XQADGFzSW5zdGFuY2VPZnNxAH4AC1GVr0h0AAxzeW5jaHJvbml6ZWRzcQB+AAsFbGkudAANJGlzSW5zdGFuY2VPZnNxAH4AC2cVa8F0AAlub3RpZnlBbGxzcQB+AAtOqyv2dAAMaXNJbnN0YW5jZU9mc3EAfgALv/RIlXQABjxpbml0PnNxAH4AC+DF02x0AAI9PXNxAH4AC6/8lc50AAVjbG9uZXNxAH4AC/uM9+x0AAh0b1N0cmluZ3NxAH4ACx8+2MV0AAIhPXNxAH4AC6ygNQJ0AAhnZXRDbGFzc3NxAH4ACy7rbc50AAJuZXNxAH4AC9K43o10AAJlcXNxAH4AC7rzsIl0AAIjI3NxAH4AC7EvOT10AAhmaW5hbGl6ZXNxAH4AC+9RrtR0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ADdzbGljay5zYW1wbGUucXVlcnlzLmluZnJhc3R1Y3R1cmUucGVyc2lzdGVuY2UuQ29udmVydGVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBfc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AZHNxAH4AX3VxAH4AQgAAAABzcQB+AF91cQB+AEIAAAAAc3EAfgBfdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBjdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBjc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB8dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB9c3EAfgBwdAADQW55c3EAfgB0c3EAfgB3dXEAfgB6AAAAAnNxAH4AfHQABXNjYWxhcQB+AIN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0ACFzbGljay5zYW1wbGUucXVlcnlzLmluZnJhc3R1Y3R1cmVzcQB+AI10AC1zbGljay5zYW1wbGUucXVlcnlzLmluZnJhc3R1Y3R1cmUucGVyc2lzdGVuY2VzcQB+AI10AAVzbGlja3NxAH4AjXQADHNsaWNrLnNhbXBsZXNxAH4AjXQAE3NsaWNrLnNhbXBsZS5xdWVyeXNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVjQ7iOkdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQATC9ob21lL2Rlc3RydWN0by9wcm9qZWN0cy9zY2FsYS9zbGljay1zYW1wbGUtcXVlcnlzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTEOFf+/lT1Mzx2SHlf26ahOHqePw==
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwM/8kUAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw+j4gZnQABm5vdGlmeXNxAH4ADOz8BFJ0AAR3YWl0c3EAfgAMhKZx+XQADSRhc0luc3RhbmNlT2ZzcQB+AAyvtFBNdAAGbG9nZ2Vyc3EAfgAMUwUFOXQABmVxdWFsc3NxAH4ADDdAnHJ0AAxhc0luc3RhbmNlT2ZzcQB+AAxViGHKdAAMc3luY2hyb25pemVkc3EAfgAMFSvUq3QAB2dldEdhbWVzcQB+AAxgcG6WdAANJGlzSW5zdGFuY2VPZnNxAH4ADHpT0U90AA5HYW1lUmVwb3NpdG9yeXNxAH4ADDHt+1p0AAlub3RpZnlBbGxzcQB+AAwK0EL+dAAMaXNJbnN0YW5jZU9mc3EAfgAMJVdW+HQABjxpbml0PnNxAH4ADHfF93l0AAI9PXNxAH4ADLfVhLh0AAVjbG9uZXNxAH4ADBJlEY10AAYkaW5pdCRzcQB+AAz00IkJdAAIdG9TdHJpbmdzcQB+AAzliDLTdAACIT1zcQB+AAyGx4jGdAAIZ2V0Q2xhc3NzcQB+AAycMFxPdAACbmVzcQB+AAwr1g14dAACZXFzcQB+AAyJht12dAACIyNzcQB+AAyxhXUddAAIZmluYWxpemVzcQB+AAy+ZD7cdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBHeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAA8c2xpY2suc2FtcGxlLnF1ZXJ5cy5pbmZyYXN0dWN0dXJlLnBlcnNpc3RlbmNlLkdhbWVSZXBvc2l0b3J5dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF9zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AR0wACWluaGVyaXRlZHEAfgBHTAAHcGFyZW50c3EAfgBHeHEAfgBkc3EAfgBfdXEAfgBCAAAAAHNxAH4AX3VxAH4AQgAAAABzcQB+AF91cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGN0AA1TdHJpY3RMb2dnaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBjc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAEc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AANjb21zcQB+AHx0AAh0eXBlc2FmZXNxAH4AfHQADHNjYWxhbG9nZ2luZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB9c3EAfgBwdAAGT2JqZWN0c3EAfgB0c3EAfgB3dXEAfgB6AAAAA3NxAH4AfHQABGphdmFzcQB+AHx0AARsYW5ncQB+AIVzcQB+AHB0AANBbnlzcQB+AHRzcQB+AHd1cQB+AHoAAAACc3EAfgB8dAAFc2NhbGFxAH4AhXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAFc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAIXNsaWNrLnNhbXBsZS5xdWVyeXMuaW5mcmFzdHVjdHVyZXNxAH4AmHQALXNsaWNrLnNhbXBsZS5xdWVyeXMuaW5mcmFzdHVjdHVyZS5wZXJzaXN0ZW5jZXNxAH4AmHQABXNsaWNrc3EAfgCYdAAMc2xpY2suc2FtcGxlc3EAfgCYdAATc2xpY2suc2FtcGxlLnF1ZXJ5c3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNDuI6R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABML2hvbWUvZGVzdHJ1Y3RvL3Byb2plY3RzL3NjYWxhL3NsaWNrLXNhbXBsZS1xdWVyeXMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFN3K9IPRBKLgOkTRmh2vnxumjck5
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwExjmhQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA/c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwNYHEanQABm5vdGlmeXNxAH4ADJoGcmZ0AAd1bmFwcGx5c3EAfgAM3makl3QAB2N1cnJpZWRzcQB+AAzu5h4EdAAEbmFtZXNxAH4ADA2po8Z0AAR3YWl0c3EAfgAM86dMbXQAASpzcQB+AAywAYzGdAAOY29weSRkZWZhdWx0JDJzcQB+AAyiAV8IdAANJGFzSW5zdGFuY2VPZnNxAH4ADBBDvDR0AAtHYW1lVHlwZVJvd3NxAH4ADHDjN7t0AAxwcm9kdWN0QXJpdHlzcQB+AAx6PX9zdAAGZXF1YWxzc3EAfgAMrVKUq3QAFGZvcmVpZ25LZXkkZGVmYXVsdCQ1c3EAfgAMfSIjbHQADEdhbWVUeXBlc0RBT3NxAH4ADGN7xyd0AAdpbmRleGVzc3EAfgAM45xDjXQADGFzSW5zdGFuY2VPZnNxAH4ADGPHlcx0ABB0YWJsZUNvbnN0cmFpbnRzc3EAfgAM5Her8nQACmZvcmVpZ25LZXlzcQB+AAwXX2cNdAAMc3luY2hyb25pemVkc3EAfgAMO4tysHQADSRpc0luc3RhbmNlT2ZzcQB+AAyk2ih7dAAJZW5jb2RlUmVmc3EAfgAMXNpqyXQABXF1ZXJ5c3EAfgAMzacB+nQABnR1cGxlZHNxAH4ADDMncD90AAtwcmltYXJ5S2V5c3NxAH4ADDDUUOV0AAl0YWJsZU5vZGVzcQB+AAyJB6EKdAAIY2FuRXF1YWxzcQB+AAx4QL1FdAANdGFibGVQcm92aWRlcnNxAH4ADOt/UL10AA1wcm9kdWN0UHJlZml4c3EAfgAMvOjd03QAC2ZvcmVpZ25LZXlzc3EAfgAMb0XZMXQACW5vdGlmeUFsbHNxAH4ADAyMnpx0AApwcmltYXJ5S2V5c3EAfgAMfnj1CXQADGlzSW5zdGFuY2VPZnNxAH4ADNThtz90ABRmb3JlaWduS2V5JGRlZmF1bHQkNnNxAH4ADMvoZLt0AAY8aW5pdD5zcQB+AAyqwtGMdAACaWRzcQB+AAxXioDjdAAFYXBwbHlzcQB+AAzZFFmFdAAKc2NoZW1hTmFtZXNxAH4ADNl0VWx0AAhjcmVhdGVfKnNxAH4ADF/eSfB0AAl0YWJsZU5hbWVzcQB+AAypQ18HdAAIdGFibGVUYWdzcQB+AAzu0BSldAACPT1zcQB+AAzYabEFdAAFY2xvbmVzcQB+AAy8UvMkdAAGdG9Ob2Rlc3EAfgAMGJNGAHQAE2NvbGxlY3RGaWVsZFN5bWJvbHNzcQB+AAwziTjfdAAQVGFibGVFbGVtZW50VHlwZXNxAH4ADCojNF90AAYkaW5pdCRzcQB+AAwDkqpSdAAEY29weXNxAH4ADEyV9Tx0AAZjb2x1bW5zcQB+AAyCDLiHdAAIdG9TdHJpbmdzcQB+AAzXaQBHdAAPaW5kZXgkZGVmYXVsdCQzc3EAfgAMu5QxWHQAAiE9c3EAfgAMN+E5S3QACGdldENsYXNzc3EAfgAM3ZxoJXQADmNvcHkkZGVmYXVsdCQxc3EAfgAM9NNFgnQAE3RhYmxlSWRlbnRpdHlTeW1ib2xzcQB+AAw4vhNfdAACbmVzcQB+AAw55U4GdAAGU2NoZW1lc3EAfgAM0rd0UXQAAU9zcQB+AAwgx90PdAACZXFzcQB+AAw1Nhg8dAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMfgd2BXQAAiMjc3EAfgAMjoze83QACGZpbmFsaXplc3EAfgAM5Uy3KXQABWluZGV4c3EAfgAMjSSS2HQADnByb2R1Y3RFbGVtZW50c3EAfgAMc2HsD3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AlXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAOnNsaWNrLnNhbXBsZS5xdWVyeXMuaW5mcmFzdHVjdHVyZS5wZXJzaXN0ZW5jZS5HYW1lVHlwZXNEQU91cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AK1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AlUwACWluaGVyaXRlZHEAfgCVTAAHcGFyZW50c3EAfgCVeHEAfgCyc3EAfgCtdXEAfgCQAAAAAHNxAH4ArXVxAH4AkAAAAABzcQB+AK11cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ALF0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ALFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AMp0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AMtzcQB+AL50AANBbnlzcQB+AMJzcQB+AMV1cQB+AMgAAAACc3EAfgDKdAAFc2NhbGFxAH4A0XVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAFc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAIXNsaWNrLnNhbXBsZS5xdWVyeXMuaW5mcmFzdHVjdHVyZXNxAH4A23QALXNsaWNrLnNhbXBsZS5xdWVyeXMuaW5mcmFzdHVjdHVyZS5wZXJzaXN0ZW5jZXNxAH4A23QABXNsaWNrc3EAfgDbdAAMc2xpY2suc2FtcGxlc3EAfgDbdAATc2xpY2suc2FtcGxlLnF1ZXJ5c3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNDuI6R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABML2hvbWUvZGVzdHJ1Y3RvL3Byb2plY3RzL3NjYWxhL3NsaWNrLXNhbXBsZS1xdWVyeXMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFEVUvcIzZGGeLk+HNEpofByJGMt7
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwS5e4HwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAFzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHDhwvLEdAAKT3B0aW9uc0V4dHVxAH4ACQAAAERzcQB+AAvR2771dAAGbm90aWZ5c3EAfgAL3h5dOnQAB3VuYXBwbHlzcQB+AAsNy2nXdAAHY3VycmllZHNxAH4ACwn+B4J0AARuYW1lc3EAfgALVKyrInQABHdhaXRzcQB+AAtkbnHvdAABKnNxAH4AC078pIV0AA5jb3B5JGRlZmF1bHQkMnNxAH4AC74KElB0AA0kYXNJbnN0YW5jZU9mc3EAfgALNV2UD3QADHByb2R1Y3RBcml0eXNxAH4ACySb04F0AAZlcXVhbHNzcQB+AAvlyHm5dAAUZm9yZWlnbktleSRkZWZhdWx0JDVzcQB+AAuHiweIdAAHaW5kZXhlc3NxAH4AC/BiR4N0AAxhc0luc3RhbmNlT2ZzcQB+AAv02+O0dAAQdGFibGVDb25zdHJhaW50c3NxAH4AC4fiMAh0AApmb3JlaWduS2V5c3EAfgALS/afv3QADHN5bmNocm9uaXplZHNxAH4ACzgzbup0AA0kaXNJbnN0YW5jZU9mc3EAfgAL2PFvoHQACHdpdGhUeXBlc3EAfgALUgZo2HQACWVuY29kZVJlZnNxAH4AC41cqwB0AAhHYW1lc0RBT3NxAH4ACxvhLxR0AAVxdWVyeXNxAH4AC5s7S1J0AAZ0dXBsZWRzcQB+AAvUjy7bdAALcHJpbWFyeUtleXNzcQB+AAuwkJuXdAAJdGFibGVOb2Rlc3EAfgAL+9OUcnQACGNhbkVxdWFsc3EAfgALQ3OqCXQABnR5cGVJZHNxAH4AC32e3MJ0AA10YWJsZVByb3ZpZGVyc3EAfgALLPxRb3QADXByb2R1Y3RQcmVmaXhzcQB+AAtcHaKGdAALZm9yZWlnbktleXNzcQB+AAuTDhZgdAAJbm90aWZ5QWxsc3EAfgALEmx+k3QACnByaW1hcnlLZXlzcQB+AAuhQ6fKdAAMaXNJbnN0YW5jZU9mc3EAfgAL4vMisnQAFGZvcmVpZ25LZXkkZGVmYXVsdCQ2c3EAfgAL8zptGHQABjxpbml0PnNxAH4ACwgQN3x0AAJpZHNxAH4AC0HE7GB0AAhnYW1lVHlwZXNxAH4AC3NTXqN0AAVhcHBseXNxAH4AC3c++Px0AApzY2hlbWFOYW1lc3EAfgALhta163QACGNyZWF0ZV8qc3EAfgAL9b0FFXQACXRhYmxlTmFtZXNxAH4AC0B+SJN0AAh0YWJsZVRhZ3NxAH4AC47iLxx0AAI9PXNxAH4ACyQ2k2d0AAlnZXRCeU5hbWVzcQB+AAs56KlQdAAFY2xvbmVzcQB+AAsZrf99dAAGdG9Ob2Rlc3EAfgALeW2H/3QAE2NvbGxlY3RGaWVsZFN5bWJvbHNzcQB+AAs1xNtldAAQVGFibGVFbGVtZW50VHlwZXNxAH4AC3q9j110AAYkaW5pdCRzcQB+AAuY31YvdAAOY29weSRkZWZhdWx0JDNzcQB+AAu7ng2BdAAEY29weXNxAH4ACzwXnAR0AAZjb2x1bW5zcQB+AAvuCDscdAAIdG9TdHJpbmdzcQB+AAsG07t6dAAPaW5kZXgkZGVmYXVsdCQzc3EAfgALpO62MXQAAiE9c3EAfgALyEm3BHQACGdldENsYXNzc3EAfgALvUKftHQADmNvcHkkZGVmYXVsdCQxc3EAfgALr1XrOHQAE3RhYmxlSWRlbnRpdHlTeW1ib2xzcQB+AAsAFF6idAACbmVzcQB+AAs0K1JGdAAGU2NoZW1lc3EAfgALONHBZXQAAU9zcQB+AAu4tBkLdAACZXFzcQB+AAuKs9nSdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALRz/pmnQAAiMjc3EAfgALw1VMKHQACGZpbmFsaXplc3EAfgALS23pCXQABWluZGV4c3EAfgALw+w9RXQADnByb2R1Y3RFbGVtZW50c3EAfgALwH2cZ3QACGhhc2hDb2Rlc3EAfgALG4NWAHQAB0dhbWVSb3dzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCheHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAA2c2xpY2suc2FtcGxlLnF1ZXJ5cy5pbmZyYXN0dWN0dXJlLnBlcnNpc3RlbmNlLkdhbWVzREFPdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgC5c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AKFMAAlpbmhlcml0ZWRxAH4AoUwAB3BhcmVudHNxAH4AoXhxAH4AvnNxAH4AuXVxAH4AnAAAAABzcQB+ALl1cQB+AJwAAAAAc3EAfgC5dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgC9dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgC9c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgDWdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDXc3EAfgDKdAADQW55c3EAfgDOc3EAfgDRdXEAfgDUAAAAAnNxAH4A1nQABXNjYWxhcQB+AN11cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0ACFzbGljay5zYW1wbGUucXVlcnlzLmluZnJhc3R1Y3R1cmVzcQB+AOd0AC1zbGljay5zYW1wbGUucXVlcnlzLmluZnJhc3R1Y3R1cmUucGVyc2lzdGVuY2VzcQB+AOd0AAVzbGlja3NxAH4A53QADHNsaWNrLnNhbXBsZXNxAH4A53QAE3NsaWNrLnNhbXBsZS5xdWVyeXNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVjQ7iOkdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQATC9ob21lL2Rlc3RydWN0by9wcm9qZWN0cy9zY2FsYS9zbGljay1zYW1wbGUtcXVlcnlzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQX2IOYLrubKXvd5lBXWMm1chQ/IQ==
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwvppF/AAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAgc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwO9qcPHQABm5vdGlmeXNxAH4ADHzlYvl0AARuYW1lc3EAfgAM7567QHQABHdhaXRzcQB+AAy4wrqCdAAOY29weSRkZWZhdWx0JDJzcQB+AAz10ZKsdAANJGFzSW5zdGFuY2VPZnNxAH4ADJwJB3F0AAxwcm9kdWN0QXJpdHlzcQB+AAy9PAL6dAAGZXF1YWxzc3EAfgAMw4epi3QADGFzSW5zdGFuY2VPZnNxAH4ADN5+YNN0AAxzeW5jaHJvbml6ZWRzcQB+AAx2Zc0EdAANJGlzSW5zdGFuY2VPZnNxAH4ADIv4J6F0AAhjYW5FcXVhbHNxAH4ADMzcgUZ0AA1wcm9kdWN0UHJlZml4c3EAfgAMxSNdN3QACW5vdGlmeUFsbHNxAH4ADCdD2JJ0AAxpc0luc3RhbmNlT2ZzcQB+AAx8Vr9VdAAGPGluaXQ+c3EAfgAMLdPuMHQABEdhbWVzcQB+AAyWl5EddAAIZ2FtZVR5cGVzcQB+AAza5dr0dAACPT1zcQB+AAyVbKMXdAAFY2xvbmVzcQB+AAy0PTLbdAAGJGluaXQkc3EAfgAMQQq3+nQABGNvcHlzcQB+AAxQSvvedAAIdG9TdHJpbmdzcQB+AAzH7YFxdAACIT1zcQB+AAwpBRCgdAAIZ2V0Q2xhc3NzcQB+AAwGdprMdAAOY29weSRkZWZhdWx0JDFzcQB+AAxaBNJ5dAACbmVzcQB+AAxXvZV3dAACZXFzcQB+AAzM4W8xdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMxgHJPHQAAiMjc3EAfgAM5eL2u3QACGZpbmFsaXplc3EAfgAMBPQ5wXQADnByb2R1Y3RFbGVtZW50c3EAfgAMiH0JU3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AV3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAHnNsaWNrLnNhbXBsZS5xdWVyeXMubW9kZWwuR2FtZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBvc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFdMAAlpbmhlcml0ZWRxAH4AV0wAB3BhcmVudHNxAH4AV3hxAH4AdHNxAH4Ab3VxAH4AUgAAAABzcQB+AG91cQB+AFIAAAAAc3EAfgBvdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBzdAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBzc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCNc3EAfgCAcQB+AINzcQB+AIRzcQB+AId1cQB+AIoAAAADc3EAfgCMdAAEamF2YXNxAH4AjHQAAmlvcQB+AJFzcQB+AIB0AAdQcm9kdWN0cQB+AIZzcQB+AIB0AAZFcXVhbHNxAH4AhnNxAH4AgHQABk9iamVjdHNxAH4AhHNxAH4Ah3VxAH4AigAAAANzcQB+AIxxAH4Al3NxAH4AjHQABGxhbmdxAH4AkXNxAH4AgHQAA0FueXEAfgCGdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAARzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAFc2xpY2tzcQB+AKp0AAxzbGljay5zYW1wbGVzcQB+AKp0ABlzbGljay5zYW1wbGUucXVlcnlzLm1vZGVsc3EAfgCqdAATc2xpY2suc2FtcGxlLnF1ZXJ5c3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNDuI6R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABML2hvbWUvZGVzdHJ1Y3RvL3Byb2plY3RzL3NjYWxhL3NsaWNrLXNhbXBsZS1xdWVyeXMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFJnV+8PHfMsLgX0m6FL0sWX9m2SJ
+external apis:
+0 items
+source infos:
+6 items
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/Application.scala -> 
+AAAAAAAAAAA=
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/Converter.scala -> 
+AAAAAAAAAAA=
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameRepository.scala -> 
+AAAAAAAAAAA=
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GameTypesDAO.scala -> 
+AAAAAAAAAAA=
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/infrastucture/persistence/GamesDAO.scala -> 
+AAAAAAAAAAA=
+/home/destructo/projects/scala/slick-sample-querys/src/main/scala/slick/sample/querys/model/Game.scala -> 
+AAAAAAAAAAA=
+compilations:
+5 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNCDq6F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9ob21lL2Rlc3RydWN0by9wcm9qZWN0cy9zY2FsYS9zbGljay1zYW1wbGUtcXVlcnlzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNDhggV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9ob21lL2Rlc3RydWN0by9wcm9qZWN0cy9zY2FsYS9zbGljay1zYW1wbGUtcXVlcnlzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNDrm6p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9ob21lL2Rlc3RydWN0by9wcm9qZWN0cy9zY2FsYS9zbGljay1zYW1wbGUtcXVlcnlzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNDuI6R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9ob21lL2Rlc3RydWN0by9wcm9qZWN0cy9zY2FsYS9zbGljay1zYW1wbGUtcXVlcnlzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNDxEqh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9ob21lL2Rlc3RydWN0by9wcm9qZWN0cy9zY2FsYS9zbGljay1zYW1wbGUtcXVlcnlzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv

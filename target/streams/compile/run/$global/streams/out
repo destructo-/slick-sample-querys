@@ -1,0 +1,34 @@
+[0m[[0minfo[0m] [0mRunning slick.sample.querys.Application [0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/home/destructo/projects/scala/slick-sample-querys/target/scala-2.11/classes[0m
+[0m[[0mdebug[0m] [0m	/home/destructo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar[0m
+[0m[[0mdebug[0m] [0m	/home/destructo/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/destructo/.ivy2/cache/com.typesafe.slick/slick_2.11/bundles/slick_2.11-3.1.1.jar[0m
+[0m[[0mdebug[0m] [0m	/home/destructo/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.10.jar[0m
+[0m[[0mdebug[0m] [0m	/home/destructo/.ivy2/cache/org.reactivestreams/reactive-streams/jars/reactive-streams-1.0.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/destructo/.ivy2/cache/com.github.tminglei/slick-pg_2.11/jars/slick-pg_2.11-0.13.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/destructo/.ivy2/cache/com.github.tminglei/slick-pg_core_2.11/jars/slick-pg_core_2.11-0.13.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/destructo/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.7.jar[0m
+[0m[[0mdebug[0m] [0m	/home/destructo/.ivy2/cache/org.postgresql/postgresql/bundles/postgresql-9.4.1207.jar[0m
+[0m[[0mdebug[0m] [0m	/home/destructo/.ivy2/cache/org.flywaydb/flyway-core/jars/flyway-core-3.2.1.jar[0m
+[0m[[0mdebug[0m] [0m	/home/destructo/.ivy2/cache/com.zaxxer/HikariCP/bundles/HikariCP-2.3.7.jar[0m
+[0m[[0mdebug[0m] [0m	/home/destructo/.ivy2/cache/org.javassist/javassist/bundles/javassist-3.19.0-GA.jar[0m
+[0m[[0mdebug[0m] [0m	/home/destructo/.ivy2/cache/com.typesafe.slick/slick-hikaricp_2.11/bundles/slick-hikaricp_2.11-3.1.1.jar[0m
+[0m[[0mdebug[0m] [0m	/home/destructo/.ivy2/cache/com.zaxxer/HikariCP-java6/bundles/HikariCP-java6-2.3.7.jar[0m
+[0m[[0mdebug[0m] [0m	/home/destructo/.ivy2/cache/com.typesafe.scala-logging/scala-logging_2.11/jars/scala-logging_2.11-3.1.0.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mInterrupting thread Hikari Housekeeping Timer (pool db)[0m
+[0m[[0mdebug[0m] [0m	Interrupted Hikari Housekeeping Timer (pool db)[0m
+[0m[[0mdebug[0m] [0mInterrupting thread db-1[0m
+[0m[[0mdebug[0m] [0m	Interrupted db-1[0m
+[0m[[0mdebug[0m] [0mInterrupting thread PostgreSQL-JDBC-SharedTimer-1[0m
+[0m[[0mdebug[0m] [0m	Interrupted PostgreSQL-JDBC-SharedTimer-1[0m
+[0m[[0mdebug[0m] [0mInterrupting thread ForkJoinPool-1-worker-5[0m
+[0m[[0mdebug[0m] [0m	Interrupted ForkJoinPool-1-worker-5[0m
+[0m[[0mdebug[0m] [0mInterrupting thread ForkJoinPool-1-worker-3[0m
+[0m[[0mdebug[0m] [0m	Interrupted ForkJoinPool-1-worker-3[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m
