@@ -5,10 +5,12 @@ import slick.driver.PostgresDriver.api._
 
 import scala.concurrent.Future
 import com.typesafe.scalalogging.StrictLogging
-import slick.sample.querys.infrastucture.persistence.GameTypesDAO.GameTypeRow
-import slick.sample.querys.infrastucture.persistence.GamesDAO.GameRow
+import slick.sample.querys.infrastucture.persistence.DAO.GameTypesDAO.GameTypeRow
+import slick.sample.querys.infrastucture.persistence.DAO.GamesDAO.GameRow
 import slick.sample.querys.infrastucture.persistence.Converter.toModelConverter
+import slick.sample.querys.infrastucture.persistence.DAO.GamesDAO
 import slick.sample.querys.model.Game
+
 import scala.concurrent.ExecutionContext.Implicits.global
 
 

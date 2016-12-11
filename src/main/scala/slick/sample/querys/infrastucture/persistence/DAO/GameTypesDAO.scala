@@ -1,8 +1,7 @@
-package slick.sample.querys.infrastucture.persistence
+package slick.sample.querys.infrastucture.persistence.DAO
 
-
-import slick.lifted.{ProvenShape, Tag}
 import slick.driver.PostgresDriver.api._
+import slick.lifted.Tag
 
 object GameTypesDAO {
   val query = TableQuery[Scheme]

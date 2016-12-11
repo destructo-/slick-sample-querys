@@ -7,7 +7,8 @@ CREATE TABLE slick_example.game_types (
 CREATE TABLE slick_example.games (
     id SERIAL PRIMARY KEY,
     type_id INT REFERENCES slick_example.games (id) NOT NULL,
-    name TEXT
+    name TEXT,
+    ctime TIMESTAMP without TIME ZONE DEFAULT NOW() NOT NULL
 );
 
 INSERT INTO slick_example.game_types (type_name) VALUES

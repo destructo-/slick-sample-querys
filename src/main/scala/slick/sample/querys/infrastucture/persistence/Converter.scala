@@ -1,7 +1,7 @@
 package slick.sample.querys.infrastucture.persistence
 
-import slick.sample.querys.infrastucture.persistence.GameTypesDAO.GameTypeRow
-import slick.sample.querys.infrastucture.persistence.GamesDAO.GameRow
+import slick.sample.querys.infrastucture.persistence.DAO.GameTypesDAO.GameTypeRow
+import slick.sample.querys.infrastucture.persistence.DAO.GamesDAO.GameRow
 import slick.sample.querys.model.Game
 
 

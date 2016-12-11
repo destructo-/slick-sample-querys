@@ -4,6 +4,8 @@ version := "1.0"
 scalaVersion := "2.11.7"
 
 libraryDependencies ++= Seq(
+  "joda-time" % "joda-time" % "2.7",
+  "com.github.tototoshi" %% "slick-joda-mapper" % "2.1.0",
   "com.typesafe" % "config" % "1.3.0",
   "com.typesafe.slick" %% "slick" % "3.1.1",
   "com.github.tminglei" %% "slick-pg" % "0.13.0",
